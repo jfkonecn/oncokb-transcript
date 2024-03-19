@@ -12,7 +12,7 @@
     "authenticationType": "oauth2",
     "cacheProvider": "redis",
     "enableHibernateCache": false,
-    "websocket": false,
+    "websocket": "spring-websocket",
     "databaseType": "sql",
     "devDatabaseType": "mysql",
     "prodDatabaseType": "mysql",
