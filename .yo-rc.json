@@ -13,6 +13,7 @@
     "cacheProvider": "redis",
     "enableHibernateCache": false,
     "websocket": "spring-websocket",
+    "serverSideOptions": ["websocket:spring-websocket"],
     "databaseType": "sql",
     "devDatabaseType": "mysql",
     "prodDatabaseType": "mysql",
